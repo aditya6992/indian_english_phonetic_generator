@@ -2,7 +2,7 @@
 This project uses letter to sound rules to generate indian english phonemes from a word, which can be used for speech recognition and speech synthesis. It is implemented in python 2.7
 
 It is based on the following paper:
-[Pronounciation rules for Indian English Text-to-Speech system](speech.tifr.res.in/workshop/03wslp/proceedings/p21.doc)
+[Pronounciation rules for Indian English Text-to-Speech system](http://speech.tifr.res.in/workshop/03wslp/proceedings/p21.doc)
 
 The script uses the phonetic set which is used in CMU Sphinx and CMU's phonetic dictionary.
 
